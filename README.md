@@ -1,6 +1,6 @@
-# 👋 Hi, I'm Daniel  
+# 👋 Hi, I'm Felipe 
 
-🎓 **Systems Engineering Student** | 💻 **Software Developer** | ☁️ **Cloud & Data Enthusiast**
+🎓 **Systems Engineering Student** | 💻 **Software Developer** | 🧠 **Competitive Programming**
 
 I’m a highly motivated Systems Engineering student with a strong academic background and a passion for building **clean, efficient, and scalable software**.  
 My work combines solid theoretical foundations with hands-on development across **backend systems, data-driven applications, and cloud-based solutions**.
@@ -26,7 +26,7 @@ My work combines solid theoretical foundations with hands-on development across 
 ---
 
 ## 🛠️ Tech Stack
-**Languages:** Java, Python, JavaScript  
+**Languages:** Java, Python, JavaScript, C++  
 **Web:** HTML, CSS, modern frontend & backend concepts  
 **Databases:** Oracle, MongoDB, relational & non-relational modeling  
 **Cloud:** AWS fundamentals, cloud architecture principles  
